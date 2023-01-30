@@ -1,0 +1,86 @@
+# Blender MTL File: 'Ape Materials.blend'
+# Material Count: 6
+
+newmtl Head(metaltoy)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts\\Head\\Metal\\Metal Toy\\Head_Normal.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts\\Head\\Metal\\Metal Toy\\Head_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts\\Head\\Metal\\Metal Toy\\Head_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts\\Head\\Metal\\Metal Toy\\Head_Metallic.png
+
+newmtl Left_Arm(metaltoy)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts\\Left Arm\\Metal\\Metal Toy\\Left_Arm_Normal.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts\\Left Arm\\Metal\\Metal Toy\\Left_Arm_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts\\Left Arm\\Metal\\Metal Toy\\Left_Arm_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts\\Left Arm\\Metal\\Metal Toy\\Left_Arm_Metallic.png
+
+newmtl Left_Leg(metaltoy)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts\\Left Leg\\Metal\\Metal Toy\\Left_Leg_Normal.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts\\Left Leg\\Metal\\Metal Toy\\Left_Leg_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts\\Left Leg\\Metal\\Metal Toy\\Left_Leg_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts\\Left Leg\\Metal\\Metal Toy\\Left_Leg_Metallic.png
+
+newmtl Right_Arm(metaltoy)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts\\Right Arm\\Metal\\Metal Toy\\Right_Arm_Normal.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts\\Right Arm\\Metal\\Metal Toy\\Right_Arm_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts\\Right Arm\\Metal\\Metal Toy\\Right_Arm_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts\\Right Arm\\Metal\\Metal Toy\\Right_Arm_Metallic.png
+
+newmtl Right_Leg(metaltoy)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts\\Right Arm\\Metal\\Metal Toy\\Right_Leg_Normal.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts\\Right Arm\\Metal\\Metal Toy\\Right_Leg_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts\\Right Arm\\Metal\\Metal Toy\\Right_Leg_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts\\Right Arm\\Metal\\Metal Toy\\Right_Leg_Metallic.png
+
+newmtl Torso(metaltoy)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts\\Torso\\Metal\\Metal Toy\\Torso_Normal.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts\\Torso\\Metal\\Metal Toy\\Torso_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts\\Torso\\Metal\\Metal Toy\\Torso_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts\\Torso\\Metal\\Metal Toy\\Torso_Metallic.png
