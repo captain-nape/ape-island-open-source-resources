@@ -1,0 +1,86 @@
+# Blender MTL File: 'Ape Materials.blend'
+# Material Count: 6
+
+newmtl Head(sfur)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Fur\\Stylized Fur\\Head_Normal_OpenGL.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Fur\\Stylized Fur\\Head_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Fur\\Stylized Fur\\Head_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Fur\\Stylized Fur\\Head_Metallic.png
+
+newmtl Left_Arm(sfur)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Fur\\Stylized Fur\\Left_Arm_Normal_OpenGL.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Fur\\Stylized Fur\\Left_Arm_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Fur\\Stylized Fur\\Left_Arm_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Fur\\Stylized Fur\\Left_Arm_Metallic.png
+
+newmtl Left_Leg(sfur)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Fur\\Stylized Fur\\Left_Leg_Normal_OpenGL.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Fur\\Stylized Fur\\Left_Leg_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Fur\\Stylized Fur\\Left_Leg_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Fur\\Stylized Fur\\Left_Leg_Metallic.png
+
+newmtl Right_Arm(sfur)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Fur\\Stylized Fur\\Right_Arm_Normal_OpenGL.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Fur\\Stylized Fur\\Right_Arm_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Fur\\Stylized Fur\\Right_Arm_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Fur\\Stylized Fur\\Right_Arm_Metallic.png
+
+newmtl Right_Leg(sfur)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Fur\\Stylized Fur\\Right_Leg_Normal_OpenGL.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Fur\\Stylized Fur\\Right_Leg_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Fur\\Stylized Fur\\Right_Leg_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Fur\\Stylized Fur\\Right_Leg_Metallic.png
+
+newmtl Torso(sfur)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Fur\\Stylized Fur\\Torso_Normal_OpenGL.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Fur\\Stylized Fur\\Torso_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Fur\\Stylized Fur\\Torso_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Fur\\Stylized Fur\\Torso_Metallic.png
