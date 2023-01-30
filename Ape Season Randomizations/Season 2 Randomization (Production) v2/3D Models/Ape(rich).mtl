@@ -1,0 +1,86 @@
+# Blender MTL File: 'Ape Materials.blend'
+# Material Count: 6
+
+newmtl Head(rich)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape Feb2021\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Head\\Abstract\\Rich\\Head_Normal.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape Feb2021\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Head\\Abstract\\Rich\\Head_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape Feb2021\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Head\\Abstract\\Rich\\Head_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape Feb2021\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Head\\Abstract\\Rich\\Head_Metallic.png
+
+newmtl Left_Arm(rich)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape Feb2021\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Left Arm\\Abstract\\Rich\\Left_Arm_Normal.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape Feb2021\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Left Arm\\Abstract\\Rich\\Left_Arm_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape Feb2021\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Left Arm\\Abstract\\Rich\\Left_Arm_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape Feb2021\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Left Arm\\Abstract\\Rich\\Left_Arm_Metallic.png
+
+newmtl Left_Leg(rich)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape Feb2021\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Left Leg\\Abstract\\Rich\\Left_Leg_Normal_OpenGL.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape Feb2021\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Left Leg\\Abstract\\Rich\\Left_Leg_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape Feb2021\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Left Leg\\Abstract\\Rich\\Left_Leg_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape Feb2021\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Left Leg\\Abstract\\Rich\\Left_Leg_Metallic.png
+
+newmtl Right_Arm(rich)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape Feb2021\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Right Arm\\Abstract\\Rich\\Right_Arm_Normal.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape Feb2021\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Right Arm\\Abstract\\Rich\\Right_Arm_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape Feb2021\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Right Arm\\Abstract\\Rich\\Right_Arm_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape Feb2021\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Right Arm\\Abstract\\Rich\\Right_Arm_Metallic.png
+
+newmtl Right_Leg(rich)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape Feb2021\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Right Leg\\Abstract\\Rich\\Right_Leg_Normal.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape Feb2021\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Right Leg\\Abstract\\Rich\\Right_Leg_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape Feb2021\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Right Leg\\Abstract\\Rich\\Right_Leg_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape Feb2021\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Right Leg\\Abstract\\Rich\\Right_Leg_Metallic.png
+
+newmtl Torso(rich)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape Feb2021\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Torso\\Abstract\\Rich\\Torso_Normal.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape Feb2021\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Torso\\Abstract\\Rich\\Torso_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape Feb2021\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Torso\\Abstract\\Rich\\Torso_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape Feb2021\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Torso\\Abstract\\Rich\\Torso_Metallic.png
