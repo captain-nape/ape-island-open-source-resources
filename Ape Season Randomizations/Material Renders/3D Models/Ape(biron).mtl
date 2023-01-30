@@ -1,0 +1,96 @@
+# Blender MTL File: 'Ape Materials.blend'
+# Material Count: 7
+
+newmtl Eyes
+Ns 621.757462
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Head(biron)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Blender\\Materials\\PBR Materials\\metals-bl\\beaten-up-metal1-bl\\beaten-up-metal1-Normal-ogl.png
+map_Kd C:\\Users\\ethan\\Desktop\\Blender\\Materials\\PBR Materials\\metals-bl\\beaten-up-metal1-bl\\beaten-up-metal1-albedo.png
+map_Ns C:\\Users\\ethan\\Desktop\\Blender\\Materials\\PBR Materials\\metals-bl\\beaten-up-metal1-bl\\beaten-up-metal1-Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Blender\\Materials\\PBR Materials\\metals-bl\\beaten-up-metal1-bl\\beaten-up-metal1-albedo.png
+
+newmtl Left_Arm(biron)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Blender\\Materials\\PBR Materials\\metals-bl\\beaten-up-metal1-bl\\beaten-up-metal1-Normal-ogl.png
+map_Kd C:\\Users\\ethan\\Desktop\\Blender\\Materials\\PBR Materials\\metals-bl\\beaten-up-metal1-bl\\beaten-up-metal1-albedo.png
+map_Ns C:\\Users\\ethan\\Desktop\\Blender\\Materials\\PBR Materials\\metals-bl\\beaten-up-metal1-bl\\beaten-up-metal1-Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Blender\\Materials\\PBR Materials\\metals-bl\\beaten-up-metal1-bl\\beaten-up-metal1-albedo.png
+
+newmtl Left_Leg(biron)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Blender\\Materials\\PBR Materials\\metals-bl\\beaten-up-metal1-bl\\beaten-up-metal1-Normal-ogl.png
+map_Kd C:\\Users\\ethan\\Desktop\\Blender\\Materials\\PBR Materials\\metals-bl\\beaten-up-metal1-bl\\beaten-up-metal1-albedo.png
+map_Ns C:\\Users\\ethan\\Desktop\\Blender\\Materials\\PBR Materials\\metals-bl\\beaten-up-metal1-bl\\beaten-up-metal1-Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Blender\\Materials\\PBR Materials\\metals-bl\\beaten-up-metal1-bl\\beaten-up-metal1-albedo.png
+
+newmtl Right_Arm(biron)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Blender\\Materials\\PBR Materials\\metals-bl\\beaten-up-metal1-bl\\beaten-up-metal1-Normal-ogl.png
+map_Kd C:\\Users\\ethan\\Desktop\\Blender\\Materials\\PBR Materials\\metals-bl\\beaten-up-metal1-bl\\beaten-up-metal1-albedo.png
+map_Ns C:\\Users\\ethan\\Desktop\\Blender\\Materials\\PBR Materials\\metals-bl\\beaten-up-metal1-bl\\beaten-up-metal1-Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Blender\\Materials\\PBR Materials\\metals-bl\\beaten-up-metal1-bl\\beaten-up-metal1-albedo.png
+
+newmtl Right_Leg(biron)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Blender\\Materials\\PBR Materials\\metals-bl\\beaten-up-metal1-bl\\beaten-up-metal1-Normal-ogl.png
+map_Kd C:\\Users\\ethan\\Desktop\\Blender\\Materials\\PBR Materials\\metals-bl\\beaten-up-metal1-bl\\beaten-up-metal1-albedo.png
+map_Ns C:\\Users\\ethan\\Desktop\\Blender\\Materials\\PBR Materials\\metals-bl\\beaten-up-metal1-bl\\beaten-up-metal1-Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Blender\\Materials\\PBR Materials\\metals-bl\\beaten-up-metal1-bl\\beaten-up-metal1-albedo.png
+
+newmtl Torso(biron)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Blender\\Materials\\PBR Materials\\metals-bl\\beaten-up-metal1-bl\\beaten-up-metal1-Normal-ogl.png
+map_Kd C:\\Users\\ethan\\Desktop\\Blender\\Materials\\PBR Materials\\metals-bl\\beaten-up-metal1-bl\\beaten-up-metal1-albedo.png
+map_Ns C:\\Users\\ethan\\Desktop\\Blender\\Materials\\PBR Materials\\metals-bl\\beaten-up-metal1-bl\\beaten-up-metal1-Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Blender\\Materials\\PBR Materials\\metals-bl\\beaten-up-metal1-bl\\beaten-up-metal1-albedo.png

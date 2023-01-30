@@ -1,0 +1,86 @@
+# Blender MTL File: 'Ape Materials.blend'
+# Material Count: 6
+
+newmtl Head(bronze)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Metal\\Bronze\\Head_Normal_OpenGL.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Metal\\Bronze\\Head_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Metal\\Bronze\\Head_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Metal\\Bronze\\Head_Metallic.png
+
+newmtl Left_Arm(bronze)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Metal\\Bronze\\Left_Arm_Normal_OpenGL.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Metal\\Bronze\\Left_Arm_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Metal\\Bronze\\Left_Arm_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Metal\\Bronze\\Left_Arm_Metallic.png
+
+newmtl Left_Leg(bronze)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Metal\\Bronze\\Left_Leg_Normal_OpenGL.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Metal\\Bronze\\Left_Leg_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Metal\\Bronze\\Left_Leg_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Metal\\Bronze\\Left_Leg_Metallic.png
+
+newmtl Right_Arm(bronze)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Metal\\Bronze\\Right_Arm_Normal_OpenGL.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Metal\\Bronze\\Right_Arm_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Metal\\Bronze\\Right_Arm_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Metal\\Bronze\\Right_Arm_Metallic.png
+
+newmtl Right_Leg(bronze)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Metal\\Bronze\\Right_Leg_Normal_OpenGL.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Metal\\Bronze\\Right_Leg_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Metal\\Bronze\\Right_Leg_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Metal\\Bronze\\Right_Leg_Metallic.png
+
+newmtl Torso(bronze)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Metal\\Bronze\\Torso_Normal_OpenGL.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Metal\\Bronze\\Torso_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Metal\\Bronze\\Torso_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(LowPoly Textures)\\Metal\\Bronze\\Torso_Metallic.png
