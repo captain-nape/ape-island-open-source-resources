@@ -1,0 +1,86 @@
+# Blender MTL File: 'Ape Materials.blend'
+# Material Count: 6
+
+newmtl Head(wool)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(Blender Render)\\Head\\Abstract\\Wool\\Head_Normal.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(Blender Render)\\Head\\Abstract\\Wool\\Head_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(Blender Render)\\Head\\Abstract\\Wool\\Head_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(Blender Render)\\Head\\Abstract\\Wool\\Head_Metallic.png
+
+newmtl Left_Arm(wool)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(Blender Render)\\Left Arm\\Abstract\\Wool\\Left_Arm_Normal.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(Blender Render)\\Left Arm\\Abstract\\Wool\\Left_Arm_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(Blender Render)\\Left Arm\\Abstract\\Wool\\Left_Arm_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(Blender Render)\\Left Arm\\Abstract\\Wool\\Left_Arm_Metallic.png
+
+newmtl Left_Leg(wool)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(Blender Render)\\Left Leg\\Abstract\\Wool\\Left_Leg_Normal.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(Blender Render)\\Left Leg\\Abstract\\Wool\\Left_Leg_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(Blender Render)\\Left Leg\\Abstract\\Wool\\Left_Leg_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(Blender Render)\\Left Leg\\Abstract\\Wool\\Left_Leg_Metallic.png
+
+newmtl Right_Arm(wool)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(Blender Render)\\Right Arm\\Abstract\\Wool\\Right_Arm_Normal.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(Blender Render)\\Right Arm\\Abstract\\Wool\\Right_Arm_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(Blender Render)\\Right Arm\\Abstract\\Wool\\Right_Arm_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(Blender Render)\\Right Arm\\Abstract\\Wool\\Right_Arm_Metallic.png
+
+newmtl Right_Leg(wool)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(Blender Render)\\Right Leg\\Abstract\\Wool\\Right_Leg_Normal.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(Blender Render)\\Right Leg\\Abstract\\Wool\\Right_Leg_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(Blender Render)\\Right Leg\\Abstract\\Wool\\Right_Leg_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(Blender Render)\\Right Leg\\Abstract\\Wool\\Right_Leg_Metallic.png
+
+newmtl Torso(wool)
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(Blender Render)\\Torso\\Abstract\\Wool\\Torso_Normal.png
+map_Kd C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(Blender Render)\\Torso\\Abstract\\Wool\\Torso_Base_Color.png
+map_Ns C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(Blender Render)\\Torso\\Abstract\\Wool\\Torso_Roughness.png
+refl C:\\Users\\ethan\\Desktop\\Polyient\\Vinyl Figures\\Ape\\Ape_Materials\\Ape Parts(Blender Render)\\Torso\\Abstract\\Wool\\Torso_Metallic.png
